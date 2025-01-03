@@ -5,3 +5,5 @@ function hello() {
 const active = () => {
     alert('ACTIVE!!!')
 }
+
+console.log("heis")
